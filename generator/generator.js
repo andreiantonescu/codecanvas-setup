@@ -29,6 +29,7 @@ document.body.innerHTML = `
     <div class="card">
       <button id="counter" type="button">Generate New</button>
     </div>
+    <a href="https://github.com/andreiantonescu/codecanvas-setup">Get it on Github</a>
     <a href="https://superblob.studio">by Superblob Studio</a>
   </div>
 `
